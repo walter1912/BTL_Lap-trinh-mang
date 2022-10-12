@@ -1,0 +1,34 @@
+{
+  "name": "conference-room",
+  "version": "1.0.0",
+  "description": "a webRTC application that is a meeting room for many people using socket.io, node.js",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/walter1912/BTL_Lap-trinh-mang.git"
+  },
+  "keywords": [
+    "webRTC",
+    "socket.io",
+    "videoStream",
+    "chat"
+  ],
+  "author": "nhom btl so 9, nhom lop 03 to 02",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/walter1912/BTL_Lap-trinh-mang/issues"
+  },
+  "homepage": "https://github.com/walter1912/BTL_Lap-trinh-mang#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "serve-favicon": "^2.5.0",
+    "socket.io": "^4.5.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
