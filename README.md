@@ -27,11 +27,14 @@ STT	MASV - Họ tên	Các nội dung thực hiện	Thể hiện	Ghi chú
 -		
 2.		B18DCCN476  - Nông Nguyễn Nguyên Phương	-	[15/9 – 20/9]: tìm hiểu về nodeJS và cài đặt VS code, nodeJS và khởi tạo project nodeJS.
 -	[25/9 – 30/9]: Tìm hiểu các thư viện và phương thức hỗ trợ stream video, stream voices.
--	[Từ ngày – đến ngày]: …
--	[Từ ngày – đến ngày]: …	-	
--	
+-
 -		
 3.		B19DCCN383 – Vũ Thị Thùy Linh	-	[15/9 – 20/9]: tìm hiểu về nodeJS và cài đặt VS code, nodeJS và khởi tạo project nodeJS.
 -	[25/9 – 30/9]: tìm hiểu về socket.io và nodeJS-	-		-		
 3.	Quá trình phát triển
 4.	Mã nguồn:  [https://github.com/walter1912/BTL_Lap-trinh-mang]
+
+
+cài đặt: 
+b1: npm install 
+b2: npm start
