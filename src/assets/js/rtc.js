@@ -37,7 +37,7 @@
          getAndSetUserStream();
  
  
-         socket.on( 'connect', () => {
+         socket.on( 'connection', () => {
              //set socketId
              socketId = socket.io.engine.id;
              document.getElementById('randomNumber').innerText = randomNumber;

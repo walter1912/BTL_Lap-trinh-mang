@@ -26,7 +26,8 @@
   "homepage": "https://github.com/jnp2018/fa-3_2#readme",
   "dependencies": {
     "express": "^4.18.2",
-    "socket.io": "^4.5.3"
+    "socket.io": "^4.5.3",
+    "ws": "^8.10.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.20"
